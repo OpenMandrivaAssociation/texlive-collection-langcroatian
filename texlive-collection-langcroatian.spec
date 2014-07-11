@@ -7,7 +7,7 @@
 Name:		texlive-collection-langcroatian
 Epoch:		1
 Version:	20120224
-Release:	6
+Release:	7
 Summary:	Croatian
 Group:		Publishing
 URL:		http://tug.org/texlive
